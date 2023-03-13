@@ -1,9 +1,9 @@
 {
-  "title": "Geolonia PWAマップ",
-  "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」",
+  "title": "非自立系男子ラジオ",
+  "description": "聖地巡礼マップ",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
-  "primary_color": "#d2691e",
+  "logo_image_url": "https://hijirisukeidanshiradioCHOUSHUSHA.github.io/SeichiJunrei/hijiritsu_icon.svg",
+  "background_image_url": "https://hijirisukeidanshiradioCHOUSHUSHA.github.io/SeichiJunrei/hijiritsukei_BG1.jpg",
+  "primary_color": "#FFFFFF",
   "orderby": "distance"
 }
