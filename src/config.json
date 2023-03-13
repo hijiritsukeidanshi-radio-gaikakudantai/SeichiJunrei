@@ -2,8 +2,8 @@
   "title": "非自立系男子ラジオ",
   "description": "聖地巡礼マップ",
   "form_url": "",
-  "logo_image_url": "https://hijiritsukeidanshi-radio-gaikakudantai.github.io/SeichiJunrei/hijiritsu_icon.svg",
-  "background_image_url": "https://hijiritsukeidanshi-radio-gaikakudantai.github.io/SeichiJunrei/hijiritsukei_BG1.jpg",
+  "logo_image_url": "https://hijiritsukeidanshi-radio-gaikakudantai.github.io/SeichiJunrei/hijiritsukei_icon.svg",
+  "background_image_url": "https://hijiritsukeidanshi-radio-gaikakudantai.github.io/SeichiJunrei/hijiritsukei_bgimage.jpg",
   "primary_color": "#FFFFFF",
   "orderby": "distance"
 }
